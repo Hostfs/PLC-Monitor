@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PLC Monitor</string>
+    <string name="nav_dashboard">대시보드</string>
+    <string name="nav_devices">장비 제어</string>
+    <string name="nav_telemetry">실시간 차트</string>
+    <string name="nav_alarms">알람 현황</string>
+    <string name="nav_logs">데이터 로그</string>
+    <string name="nav_debugger">통신 디버거</string>
+    <string name="nav_users">권한 관리</string>
+</resources>

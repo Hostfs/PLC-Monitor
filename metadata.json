@@ -1,0 +1,6 @@
+{
+  "name": "PLC Monitor",
+  "description": "산업용 PLC 및 장비 실시간 모니터링, 데이터 시각화, 알림 및 고신뢰성 통신 디버깅 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
